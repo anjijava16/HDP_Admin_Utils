@@ -19,15 +19,21 @@
     /var/log ===> Path 
     
 # SSH Connection 
-```
-SSH :
-Port: 2222
-Username:root
-Password: hadoop
-New Password: Maxis@123
+        ```
+        SSH :
+        Port: 2222
+        Username:root
+        Password: hadoop
+        New Password: Maxis@123
 
 
-```
+        ```
+# SSH with Web Client Login (From Browser)
+    http://localhost:4200/ (Here Enter Username :root && Password: Maxis@123)
+    
+# Ranger Process URL 
+    localhost:6080 (Here enter Ambari URL Here  Username: maria_dev & Password : maria_dev) 
+
  
  
  
