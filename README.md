@@ -1,4 +1,11 @@
 # HDP_Admin_Utils
+# Version 3.0.1
+
+# Main URL 
+
+  URL :  http://localhost:1080/splash.html
+
+
 
 /etc/<<Need Folder>> ===> Application related Con files  <br/>
 /opt/                                                 <br/>
